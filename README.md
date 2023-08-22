@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashw1nshenoy
-   I’m interested in Computer Science
-   I’m currently learning Web Development
-   Ask me about JavaScript,ExpressJs
+- I’m interested in Computer Science
+ -  I’m currently learning Web Development
+  - Ask me about JavaScript,ExpressJs
 - 📫 How to reach me ashwinshenoy20@gmail.com
 
 <!---
