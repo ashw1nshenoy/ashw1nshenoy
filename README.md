@@ -7,7 +7,7 @@
 
 - I’m interested in Computer Science
 - I’m currently learning Full Stack Web Development
-- Ask me about JavaScript,ExpressJs
+- Ask me about C++,JAVA,JavaScript,ExpressJs
 - 📫 How to reach me ashwinshenoy20@gmail.com
 <br><br>
 
