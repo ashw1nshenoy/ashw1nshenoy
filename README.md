@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ashwin Shenoy</h1>
-<h3 align="left">Web developer</h3>
+<h3 align="left">ENGINEER</h3>
 <p><img align="right" src="https://png.pngtree.com/png-vector/20200618/ourlarge/pngtree-young-people-work-and-study-from-home-in-flat-style-png-image_2256889.jpg" height="300rem" width="300rem"/></p>
 
 ![](https://komarev.com/ghpvc/?username=ashw1nshenoy)
