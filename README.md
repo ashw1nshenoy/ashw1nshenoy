@@ -10,7 +10,6 @@
 - Ask me about C++,JAVA,JavaScript,ExpressJs
 - 📫 How to reach me ashwinshenoy20@gmail.com
 <br><br>
-<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashw1nshenoy&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 <!---
 ashw1nshenoy/ashw1nshenoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
