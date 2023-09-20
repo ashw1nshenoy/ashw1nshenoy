@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=ashw1nshenoy)
 
 
-- I’m interested in Computer Science
+- I’m interested in COMPUTER SCIENCE
 - I’m currently learning Full Stack Web Development
 - Ask me about C++,JAVA,JavaScript,ExpressJs
 - 📫 How to reach me ashwinshenoy20@gmail.com
