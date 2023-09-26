@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ashwin Shenoy</h1>
+<h1 align="center">Hi 👋, I'm Ashwin Shenoy</h1>
 <h3 align="left">passionate ENGINEER</h3>
 <p><img align="right" src="https://png.pngtree.com/png-vector/20200618/ourlarge/pngtree-young-people-work-and-study-from-home-in-flat-style-png-image_2256889.jpg" height="300rem" width="300rem"/></p>
 
