@@ -7,7 +7,6 @@
 
 - I’m interested in COMPUTER SCIENCE
 - I’m currently learning Full Stack Web Development
-- Ask me about C++,JAVA,JavaScript,ExpressJs
 - 📫 How to reach me ashwinshenoy20@gmail.com
 <br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashw1nshenoy&theme=algolia&hide_border=true)](https://git.io/streak-stats)
